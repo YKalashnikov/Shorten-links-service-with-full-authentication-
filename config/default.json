@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "secretkey": "CCBFF972E45436667EBD1846B843d2",
+    "mongoUri": "mongodb://localhost:27017/mern",
+    "baseUrl": "http://localhost:5000"
+}
